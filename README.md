@@ -68,7 +68,10 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 <!-- ### Description -->
 
 ### Links
-- [Web](https://www.agentops.ai/)</details>
+- [Web](https://www.agentops.ai/)
+
+
+</details>
 
 ## [CBK](https://cbk.ai/)
 CBK is an AI backend for building and running agents, with an agent builder, model gateway, knowledge retrieval, and tool integrations. The platform can run on your own infrastructure.
